@@ -1,5 +1,4 @@
-![Mahmud Modibbo Banner](https://your-banner-url.com/banner.png) <!-- Optional: Add your own banner or profile image here -->
-
+<img src="https://github.com/mahmud021/mahmud021/blob/5f5b4ecc0f845d607dfec731e4db71c96300c4b9/695D26A9-F956-4B03-B7F9-93BD84595DE0%20Background%20Removed.png?raw=true" alt="Banner" width="200" align="left"/>
 ### 👋🏽 Hi, I'm Mahmud Modibbo
 
 I'm a full-stack developer and current student at the **American University of Nigeria (AUN)**, passionate about building useful, local-first web applications that solve real-world problems in Nigeria and beyond.
