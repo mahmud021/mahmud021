@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://github.com/mahmud021/mahmud021/blob/5f5b4ecc0f845d607dfec731e4db71c96300c4b9/695D26A9-F956-4B03-B7F9-93BD84595DE0%20Background%20Removed.png?raw=true" alt="Mahmud Modibbo" width="200" style="border-radius: 10px; border: 3px solid #6C63FF;" align="right"/>
+<!--   <img src="https://github.com/mahmud021/mahmud021/blob/5f5b4ecc0f845d607dfec731e4db71c96300c4b9/695D26A9-F956-4B03-B7F9-93BD84595DE0%20Background%20Removed.png?raw=true" alt="Mahmud Modibbo" width="200" style="border-radius: 10px; border: 3px solid #6C63FF;" align="right"/> -->
 
   # 👋🏽 Hi, I'm Mahmud Modibbo  
-  **Full-Stack Developer | Local Problem-Solver**  
+  **Full-Stack Developer**  
   Studying Computer Science @ **American University of Nigeria (AUN)**  
-  *"Building tech that solves Nigerian headaches, one line of code at a time."*  
+
 </div>
 
 ---
